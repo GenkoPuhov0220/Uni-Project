@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RqV1+2IHwsc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FTF\\Desktop\\Genko Iki\\Uni-Project\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FTF\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

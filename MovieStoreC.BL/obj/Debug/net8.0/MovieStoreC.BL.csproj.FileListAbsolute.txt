@@ -1,0 +1,36 @@
+C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.BL\bin\Debug\net8.0\MovieStoreC.BL.deps.json
+C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.BL\bin\Debug\net8.0\MovieStoreC.BL.dll
+C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.BL\bin\Debug\net8.0\MovieStoreC.BL.pdb
+C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.BL\bin\Debug\net8.0\MovieStoreC.DL.dll
+C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.BL\bin\Debug\net8.0\MovieStoreC.Models.dll
+C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.BL\bin\Debug\net8.0\MovieStoreC.DL.pdb
+C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.BL\bin\Debug\net8.0\MovieStoreC.Models.pdb
+C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.BL\obj\Debug\net8.0\MovieStoreC.BL.csproj.AssemblyReference.cache
+C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.BL\obj\Debug\net8.0\MovieStoreC.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.BL\obj\Debug\net8.0\MovieStoreC.BL.AssemblyInfoInputs.cache
+C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.BL\obj\Debug\net8.0\MovieStoreC.BL.AssemblyInfo.cs
+C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.BL\obj\Debug\net8.0\MovieStoreC.BL.csproj.CoreCompileInputs.cache
+C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.BL\obj\Debug\net8.0\MovieStoreC.BL.sourcelink.json
+C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.BL\obj\Debug\net8.0\MovieSto.A2B72BA5.Up2Date
+C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.BL\obj\Debug\net8.0\MovieStoreC.BL.dll
+C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.BL\obj\Debug\net8.0\refint\MovieStoreC.BL.dll
+C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.BL\obj\Debug\net8.0\MovieStoreC.BL.pdb
+C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.BL\obj\Debug\net8.0\ref\MovieStoreC.BL.dll
+C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.BL\bin\Debug\net8.0\MovieStoreC.BL.deps.json
+C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.BL\bin\Debug\net8.0\MovieStoreC.BL.dll
+C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.BL\bin\Debug\net8.0\MovieStoreC.BL.pdb
+C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.BL\bin\Debug\net8.0\MovieStoreC.DL.dll
+C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.BL\bin\Debug\net8.0\MovieStoreC.Models.dll
+C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.BL\bin\Debug\net8.0\MovieStoreC.DL.pdb
+C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.BL\bin\Debug\net8.0\MovieStoreC.Models.pdb
+C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.BL\obj\Debug\net8.0\MovieStoreC.BL.csproj.AssemblyReference.cache
+C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.BL\obj\Debug\net8.0\MovieStoreC.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.BL\obj\Debug\net8.0\MovieStoreC.BL.AssemblyInfoInputs.cache
+C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.BL\obj\Debug\net8.0\MovieStoreC.BL.AssemblyInfo.cs
+C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.BL\obj\Debug\net8.0\MovieStoreC.BL.csproj.CoreCompileInputs.cache
+C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.BL\obj\Debug\net8.0\MovieStoreC.BL.sourcelink.json
+C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.BL\obj\Debug\net8.0\MovieSto.A2B72BA5.Up2Date
+C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.BL\obj\Debug\net8.0\MovieStoreC.BL.dll
+C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.BL\obj\Debug\net8.0\refint\MovieStoreC.BL.dll
+C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.BL\obj\Debug\net8.0\MovieStoreC.BL.pdb
+C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.BL\obj\Debug\net8.0\ref\MovieStoreC.BL.dll
