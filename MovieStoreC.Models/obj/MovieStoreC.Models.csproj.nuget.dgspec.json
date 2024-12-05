@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FTF\\Desktop\\Genko Iki\\Uni-Project\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj": {}
+    "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FTF\\Desktop\\Genko Iki\\Uni-Project\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj": {
+    "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FTF\\Desktop\\Genko Iki\\Uni-Project\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj",
+        "projectUniqueName": "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj",
         "projectName": "MovieStoreC.Models",
-        "projectPath": "C:\\Users\\FTF\\Desktop\\Genko Iki\\Uni-Project\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj",
+        "projectPath": "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj",
         "packagesPath": "C:\\Users\\FTF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FTF\\Desktop\\Genko Iki\\Uni-Project\\MovieStoreC\\MovieStoreC.Models\\obj\\",
+        "outputPath": "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

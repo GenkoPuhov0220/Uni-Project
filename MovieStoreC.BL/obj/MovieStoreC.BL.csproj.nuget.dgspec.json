@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FTF\\Desktop\\Genko Iki\\Uni-Project\\MovieStoreC\\MovieStoreC.BL\\MovieStoreC.BL.csproj": {}
+    "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.BL\\MovieStoreC.BL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FTF\\Desktop\\Genko Iki\\Uni-Project\\MovieStoreC\\MovieStoreC.BL\\MovieStoreC.BL.csproj": {
+    "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.BL\\MovieStoreC.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FTF\\Desktop\\Genko Iki\\Uni-Project\\MovieStoreC\\MovieStoreC.BL\\MovieStoreC.BL.csproj",
+        "projectUniqueName": "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.BL\\MovieStoreC.BL.csproj",
         "projectName": "MovieStoreC.BL",
-        "projectPath": "C:\\Users\\FTF\\Desktop\\Genko Iki\\Uni-Project\\MovieStoreC\\MovieStoreC.BL\\MovieStoreC.BL.csproj",
+        "projectPath": "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.BL\\MovieStoreC.BL.csproj",
         "packagesPath": "C:\\Users\\FTF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FTF\\Desktop\\Genko Iki\\Uni-Project\\MovieStoreC\\MovieStoreC.BL\\obj\\",
+        "outputPath": "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\FTF\\Desktop\\Genko Iki\\Uni-Project\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj": {
-                "projectPath": "C:\\Users\\FTF\\Desktop\\Genko Iki\\Uni-Project\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj"
+              "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj": {
+                "projectPath": "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\FTF\\Desktop\\Genko Iki\\Uni-Project\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj": {
+    "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FTF\\Desktop\\Genko Iki\\Uni-Project\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj",
+        "projectUniqueName": "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj",
         "projectName": "MovieStoreC.DL",
-        "projectPath": "C:\\Users\\FTF\\Desktop\\Genko Iki\\Uni-Project\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj",
+        "projectPath": "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj",
         "packagesPath": "C:\\Users\\FTF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FTF\\Desktop\\Genko Iki\\Uni-Project\\MovieStoreC\\MovieStoreC.DL\\obj\\",
+        "outputPath": "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.DL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -108,8 +108,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\FTF\\Desktop\\Genko Iki\\Uni-Project\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj": {
-                "projectPath": "C:\\Users\\FTF\\Desktop\\Genko Iki\\Uni-Project\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj"
+              "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj": {
+                "projectPath": "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj"
               }
             }
           }
@@ -154,14 +154,14 @@
         }
       }
     },
-    "C:\\Users\\FTF\\Desktop\\Genko Iki\\Uni-Project\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj": {
+    "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FTF\\Desktop\\Genko Iki\\Uni-Project\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj",
+        "projectUniqueName": "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj",
         "projectName": "MovieStoreC.Models",
-        "projectPath": "C:\\Users\\FTF\\Desktop\\Genko Iki\\Uni-Project\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj",
+        "projectPath": "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj",
         "packagesPath": "C:\\Users\\FTF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FTF\\Desktop\\Genko Iki\\Uni-Project\\MovieStoreC\\MovieStoreC.Models\\obj\\",
+        "outputPath": "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
