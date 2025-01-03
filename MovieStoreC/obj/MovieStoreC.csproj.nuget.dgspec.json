@@ -1,0 +1,309 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC\\MovieStoreC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.BL\\MovieStoreC.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.BL\\MovieStoreC.BL.csproj",
+        "projectName": "MovieStoreC.BL",
+        "projectPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.BL\\MovieStoreC.BL.csproj",
+        "packagesPath": "C:\\Users\\stoya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\stoya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj": {
+                "projectPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj",
+        "projectName": "MovieStoreC.DL",
+        "projectPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj",
+        "packagesPath": "C:\\Users\\stoya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.DL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\stoya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj": {
+                "projectPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj",
+        "projectName": "MovieStoreC.Models",
+        "projectPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj",
+        "packagesPath": "C:\\Users\\stoya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\stoya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC\\MovieStoreC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC\\MovieStoreC.csproj",
+        "projectName": "MovieStoreC",
+        "projectPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC\\MovieStoreC.csproj",
+        "packagesPath": "C:\\Users\\stoya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\stoya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.BL\\MovieStoreC.BL.csproj": {
+                "projectPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.BL\\MovieStoreC.BL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0, )"
+            },
+            "Mapster.DependencyInjection": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
