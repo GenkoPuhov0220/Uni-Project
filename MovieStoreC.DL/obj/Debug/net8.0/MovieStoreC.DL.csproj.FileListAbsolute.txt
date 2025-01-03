@@ -1,62 +1,15 @@
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.DL\bin\Debug\net8.0\MovieStoreC.DL.deps.json
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.DL\bin\Debug\net8.0\MovieStoreC.DL.dll
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.DL\bin\Debug\net8.0\MovieStoreC.DL.pdb
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.DL\bin\Debug\net8.0\MovieStoreC.Models.dll
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.DL\bin\Debug\net8.0\MovieStoreC.Models.pdb
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.csproj.AssemblyReference.cache
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.AssemblyInfoInputs.cache
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.AssemblyInfo.cs
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.csproj.CoreCompileInputs.cache
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.sourcelink.json
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieSto.A2B7230F.Up2Date
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.dll
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\refint\MovieStoreC.DL.dll
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.pdb
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\ref\MovieStoreC.DL.dll
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.DL\bin\Debug\net8.0\MovieStoreC.DL.deps.json
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.DL\bin\Debug\net8.0\MovieStoreC.DL.dll
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.DL\bin\Debug\net8.0\MovieStoreC.DL.pdb
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.DL\bin\Debug\net8.0\MovieStoreC.Models.dll
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.DL\bin\Debug\net8.0\MovieStoreC.Models.pdb
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.csproj.AssemblyReference.cache
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.AssemblyInfoInputs.cache
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.AssemblyInfo.cs
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.csproj.CoreCompileInputs.cache
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.sourcelink.json
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieSto.A2B7230F.Up2Date
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.dll
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\refint\MovieStoreC.DL.dll
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.pdb
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\ref\MovieStoreC.DL.dll
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.DL\bin\Debug\net8.0\MovieStoreC.DL.deps.json
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.DL\bin\Debug\net8.0\MovieStoreC.DL.dll
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.DL\bin\Debug\net8.0\MovieStoreC.DL.pdb
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.DL\bin\Debug\net8.0\MovieStoreC.Models.dll
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.DL\bin\Debug\net8.0\MovieStoreC.Models.pdb
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.csproj.AssemblyReference.cache
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.AssemblyInfoInputs.cache
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.AssemblyInfo.cs
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.csproj.CoreCompileInputs.cache
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieSto.A2B7230F.Up2Date
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.dll
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\refint\MovieStoreC.DL.dll
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.pdb
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\ref\MovieStoreC.DL.dll
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.DL\bin\Debug\net8.0\MovieStoreC.DL.deps.json
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.DL\bin\Debug\net8.0\MovieStoreC.DL.dll
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.DL\bin\Debug\net8.0\MovieStoreC.DL.pdb
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.DL\bin\Debug\net8.0\MovieStoreC.Models.dll
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.DL\bin\Debug\net8.0\MovieStoreC.Models.pdb
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.csproj.AssemblyReference.cache
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.AssemblyInfoInputs.cache
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.AssemblyInfo.cs
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.csproj.CoreCompileInputs.cache
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieSto.A2B7230F.Up2Date
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.dll
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\refint\MovieStoreC.DL.dll
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.pdb
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\ref\MovieStoreC.DL.dll
+C:\Users\stoya\Desktop\pu-c#\MovieStoreC-main\MovieStoreC\MovieStoreC.DL\bin\Debug\net8.0\MovieStoreC.DL.deps.json
+C:\Users\stoya\Desktop\pu-c#\MovieStoreC-main\MovieStoreC\MovieStoreC.DL\bin\Debug\net8.0\MovieStoreC.DL.dll
+C:\Users\stoya\Desktop\pu-c#\MovieStoreC-main\MovieStoreC\MovieStoreC.DL\bin\Debug\net8.0\MovieStoreC.DL.pdb
+C:\Users\stoya\Desktop\pu-c#\MovieStoreC-main\MovieStoreC\MovieStoreC.DL\bin\Debug\net8.0\MovieStoreC.Models.dll
+C:\Users\stoya\Desktop\pu-c#\MovieStoreC-main\MovieStoreC\MovieStoreC.DL\bin\Debug\net8.0\MovieStoreC.Models.pdb
+C:\Users\stoya\Desktop\pu-c#\MovieStoreC-main\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.csproj.AssemblyReference.cache
+C:\Users\stoya\Desktop\pu-c#\MovieStoreC-main\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoya\Desktop\pu-c#\MovieStoreC-main\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.AssemblyInfoInputs.cache
+C:\Users\stoya\Desktop\pu-c#\MovieStoreC-main\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.AssemblyInfo.cs
+C:\Users\stoya\Desktop\pu-c#\MovieStoreC-main\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.csproj.CoreCompileInputs.cache
+C:\Users\stoya\Desktop\pu-c#\MovieStoreC-main\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieSto.A2B7230F.Up2Date
+C:\Users\stoya\Desktop\pu-c#\MovieStoreC-main\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.dll
+C:\Users\stoya\Desktop\pu-c#\MovieStoreC-main\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\refint\MovieStoreC.DL.dll
+C:\Users\stoya\Desktop\pu-c#\MovieStoreC-main\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\MovieStoreC.DL.pdb
+C:\Users\stoya\Desktop\pu-c#\MovieStoreC-main\MovieStoreC\MovieStoreC.DL\obj\Debug\net8.0\ref\MovieStoreC.DL.dll

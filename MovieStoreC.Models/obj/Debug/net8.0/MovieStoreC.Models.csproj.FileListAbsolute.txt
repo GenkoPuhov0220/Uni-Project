@@ -1,50 +1,11 @@
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.Models\bin\Debug\net8.0\MovieStoreC.Models.deps.json
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.Models\bin\Debug\net8.0\MovieStoreC.Models.dll
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.Models\bin\Debug\net8.0\MovieStoreC.Models.pdb
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.csproj.AssemblyReference.cache
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.AssemblyInfoInputs.cache
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.AssemblyInfo.cs
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.csproj.CoreCompileInputs.cache
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.sourcelink.json
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.dll
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\refint\MovieStoreC.Models.dll
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.pdb
-C:\Users\FTF\Desktop\New folder (2)\Uni-Project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\ref\MovieStoreC.Models.dll
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.Models\bin\Debug\net8.0\MovieStoreC.Models.deps.json
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.Models\bin\Debug\net8.0\MovieStoreC.Models.dll
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.Models\bin\Debug\net8.0\MovieStoreC.Models.pdb
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.csproj.AssemblyReference.cache
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.AssemblyInfoInputs.cache
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.AssemblyInfo.cs
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.csproj.CoreCompileInputs.cache
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.sourcelink.json
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.dll
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\refint\MovieStoreC.Models.dll
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.pdb
-C:\Users\FTF\Desktop\Genko Iki\Uni-Project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\ref\MovieStoreC.Models.dll
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.Models\bin\Debug\net8.0\MovieStoreC.Models.deps.json
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.Models\bin\Debug\net8.0\MovieStoreC.Models.dll
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.Models\bin\Debug\net8.0\MovieStoreC.Models.pdb
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.csproj.AssemblyReference.cache
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.AssemblyInfoInputs.cache
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.AssemblyInfo.cs
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.csproj.CoreCompileInputs.cache
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.dll
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\refint\MovieStoreC.Models.dll
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.pdb
-C:\Users\FTF\Desktop\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\ref\MovieStoreC.Models.dll
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.Models\bin\Debug\net8.0\MovieStoreC.Models.deps.json
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.Models\bin\Debug\net8.0\MovieStoreC.Models.dll
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.Models\bin\Debug\net8.0\MovieStoreC.Models.pdb
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.csproj.AssemblyReference.cache
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.GeneratedMSBuildEditorConfig.editorconfig
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.AssemblyInfoInputs.cache
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.AssemblyInfo.cs
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.csproj.CoreCompileInputs.cache
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.dll
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\refint\MovieStoreC.Models.dll
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.pdb
-C:\Program Files (x86)\project\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\ref\MovieStoreC.Models.dll
+C:\Users\stoya\Desktop\pu-c#\MovieStoreC-main\MovieStoreC\MovieStoreC.Models\bin\Debug\net8.0\MovieStoreC.Models.deps.json
+C:\Users\stoya\Desktop\pu-c#\MovieStoreC-main\MovieStoreC\MovieStoreC.Models\bin\Debug\net8.0\MovieStoreC.Models.dll
+C:\Users\stoya\Desktop\pu-c#\MovieStoreC-main\MovieStoreC\MovieStoreC.Models\bin\Debug\net8.0\MovieStoreC.Models.pdb
+C:\Users\stoya\Desktop\pu-c#\MovieStoreC-main\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoya\Desktop\pu-c#\MovieStoreC-main\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.AssemblyInfoInputs.cache
+C:\Users\stoya\Desktop\pu-c#\MovieStoreC-main\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.AssemblyInfo.cs
+C:\Users\stoya\Desktop\pu-c#\MovieStoreC-main\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.csproj.CoreCompileInputs.cache
+C:\Users\stoya\Desktop\pu-c#\MovieStoreC-main\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.dll
+C:\Users\stoya\Desktop\pu-c#\MovieStoreC-main\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\refint\MovieStoreC.Models.dll
+C:\Users\stoya\Desktop\pu-c#\MovieStoreC-main\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\MovieStoreC.Models.pdb
+C:\Users\stoya\Desktop\pu-c#\MovieStoreC-main\MovieStoreC\MovieStoreC.Models\obj\Debug\net8.0\ref\MovieStoreC.Models.dll
