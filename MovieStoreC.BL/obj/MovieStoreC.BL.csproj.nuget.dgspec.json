@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.BL\\MovieStoreC.BL.csproj": {}
+    "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.BL\\MovieStoreC.BL.csproj": {}
   },
   "projects": {
-    "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.BL\\MovieStoreC.BL.csproj": {
+    "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.BL\\MovieStoreC.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.BL\\MovieStoreC.BL.csproj",
+        "projectUniqueName": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.BL\\MovieStoreC.BL.csproj",
         "projectName": "MovieStoreC.BL",
-        "projectPath": "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.BL\\MovieStoreC.BL.csproj",
-        "packagesPath": "C:\\Users\\FTF\\.nuget\\packages\\",
-        "outputPath": "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.BL\\obj\\",
+        "projectPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.BL\\MovieStoreC.BL.csproj",
+        "packagesPath": "C:\\Users\\stoya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.BL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\FTF\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\stoya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -33,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj": {
-                "projectPath": "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj"
+              "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj": {
+                "projectPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj"
               }
             }
           }
@@ -56,7 +52,7 @@
           "dependencies": {
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.2, )"
             }
           },
           "imports": [
@@ -75,25 +71,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj": {
+    "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj",
+        "projectUniqueName": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj",
         "projectName": "MovieStoreC.DL",
-        "projectPath": "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj",
-        "packagesPath": "C:\\Users\\FTF\\.nuget\\packages\\",
-        "outputPath": "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.DL\\obj\\",
+        "projectPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj",
+        "packagesPath": "C:\\Users\\stoya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.DL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\FTF\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\stoya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -108,8 +100,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj": {
-                "projectPath": "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj"
+              "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj": {
+                "projectPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj"
               }
             }
           }
@@ -131,7 +123,15 @@
           "dependencies": {
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.1.0, )"
             }
           },
           "imports": [
@@ -150,25 +150,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj": {
+    "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj",
+        "projectUniqueName": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj",
         "projectName": "MovieStoreC.Models",
-        "projectPath": "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj",
-        "packagesPath": "C:\\Users\\FTF\\.nuget\\packages\\",
-        "outputPath": "C:\\Program Files (x86)\\project\\MovieStoreC\\MovieStoreC.Models\\obj\\",
+        "projectPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj",
+        "packagesPath": "C:\\Users\\stoya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.Models\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\FTF\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\stoya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -199,12 +195,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.Extensions.DependencyInjection.Abstractions": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -221,7 +211,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
