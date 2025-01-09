@@ -34,9 +34,11 @@ namespace MovieStoreC
             builder.Services.AddFluentValidationAutoValidation();
 
             builder.Services.AddSwaggerGen();
+            builder.Services.AddHealthChecks();
 
             var app = builder.Build();
 
+            app.MapHealthChecks("/healthz");
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();

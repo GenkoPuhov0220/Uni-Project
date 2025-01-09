@@ -15,7 +15,7 @@ namespace MovieStoreC.BL.Services
 
         public void Add(Movie movie)
         {
-            //_movieRepository.Add(movie);
+            _movieRepository.Add(movie);
         }
 
         public List<Movie> GetAll()

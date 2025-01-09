@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.BL\\MovieStoreC.BL.csproj": {}
+    "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStoreC.BL\\MovieStoreC.BL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.BL\\MovieStoreC.BL.csproj": {
+    "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStorC.Tests\\MovieStorC.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.BL\\MovieStoreC.BL.csproj",
-        "projectName": "MovieStoreC.BL",
-        "projectPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.BL\\MovieStoreC.BL.csproj",
-        "packagesPath": "C:\\Users\\stoya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.BL\\obj\\",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStorC.Tests\\MovieStorC.Tests.csproj",
+        "projectName": "MovieStorC.Tests",
+        "projectPath": "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStorC.Tests\\MovieStorC.Tests.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStorC.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\stoya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,8 +29,102 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj": {
-                "projectPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj"
+              "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStoreC.DL\\MovieStoreC.DL.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStoreC.DL\\MovieStoreC.DL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStoreC.BL\\MovieStoreC.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStoreC.BL\\MovieStoreC.BL.csproj",
+        "projectName": "MovieStoreC.BL",
+        "projectPath": "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStoreC.BL\\MovieStoreC.BL.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStoreC.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStorC.Tests\\MovieStorC.Tests.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStorC.Tests\\MovieStorC.Tests.csproj"
+              },
+              "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStoreC.DL\\MovieStoreC.DL.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStoreC.DL\\MovieStoreC.DL.csproj"
               }
             }
           }
@@ -75,17 +169,17 @@
         }
       }
     },
-    "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj": {
+    "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStoreC.DL\\MovieStoreC.DL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStoreC.DL\\MovieStoreC.DL.csproj",
         "projectName": "MovieStoreC.DL",
-        "projectPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.DL\\MovieStoreC.DL.csproj",
-        "packagesPath": "C:\\Users\\stoya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.DL\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStoreC.DL\\MovieStoreC.DL.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStoreC.DL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\stoya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -100,8 +194,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj": {
-                "projectPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj"
+              "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStoreC.Models\\MovieStoreC.Models.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStoreC.Models\\MovieStoreC.Models.csproj"
               }
             }
           }
@@ -154,17 +248,17 @@
         }
       }
     },
-    "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj": {
+    "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStoreC.Models\\MovieStoreC.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStoreC.Models\\MovieStoreC.Models.csproj",
         "projectName": "MovieStoreC.Models",
-        "projectPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.Models\\MovieStoreC.Models.csproj",
-        "packagesPath": "C:\\Users\\stoya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stoya\\Desktop\\pu-c#\\MovieStoreC-main\\MovieStoreC\\MovieStoreC.Models\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStoreC.Models\\MovieStoreC.Models.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStoreC.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\stoya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

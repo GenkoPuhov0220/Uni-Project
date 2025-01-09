@@ -11,7 +11,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MovieStorC.Tests\MovieStorC.Tests.csproj" />
     <ProjectReference Include="..\MovieStoreC.DL\MovieStoreC.DL.csproj" />
   </ItemGroup>
-
+	<ItemGroup>
+		<InternalsVisibleTo Include="MovieStorC.Tests"/>
+	</ItemGroup>
 </Project>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C1uQrMyIpP0=",
+  "dgSpecHash": "miCxiyamaIQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStoreC.BL\\MovieStoreC.BL.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Uni-plovdiv\\Uni-Project-main\\MovieStorC.Tests\\MovieStorC.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
